@@ -7,6 +7,9 @@
  <a href="">Pré-requisitos</a> • 
  <a href="">Autor</a>
 </p>
+<h4 align="center"> 
+	🚧 Em construção...  🚧
+</h4>
 
 ### Pré-requisitos
 
@@ -21,7 +24,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone <https://github.com/loadingGabriel/NlW-02>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+$ cd NLW-02
 
 # Vá para a pasta server
 $ cd server
