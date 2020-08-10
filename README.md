@@ -1,5 +1,5 @@
-# Proffy
+<h1 align="center">Proffy</h1>
+<p align="center">Encontre os melhores proffys a sua volta!</p>
 
-<p align="center">Projeto realizado pela @Rocketseat, com intuito de colocar os devs um nível acima!!!</p>
-![Capa](https://user-images.githubusercontent.com/49095200/89817392-719f7980-db1e-11ea-86aa-5962707ab3c3.png)
+
 
