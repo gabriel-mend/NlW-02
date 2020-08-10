@@ -29,8 +29,8 @@ $ cd server
 # Instale as dependências
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+# Execute a aplicação 
+$ npm start
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
