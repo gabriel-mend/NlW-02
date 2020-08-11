@@ -7,8 +7,10 @@
  <a href="">Pré-requisitos</a> • 
  <a href="">Autor</a>
 </p>
+![proffy](https://user-images.githubusercontent.com/49095200/89945852-6456bd80-dbf8-11ea-85cf-759626799e2e.png)
+
 <h4 align="center"> 
-	🚧 Em construção...  🚧
+	🚧 👷  Em construção...  🚧
 </h4>
 
 ### Pré-requisitos
@@ -17,7 +19,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o Back End (servidor)
+### 🎲Como Rodar
 
 ```bash
 # Clone este repositório
