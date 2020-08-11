@@ -4,9 +4,9 @@
 <p align="center">
  <a href="">Sobre</a> •
  <a href="">Tecnologias</a> • 
- <a href="">Licença</a> • 
  <a href="">Como executar o projeto</a> • 
- <a href="">Autor</a>
+ <a href="">Autor</a> • 
+ <a href="">Agradecimentos</a>
 </p>
 <img src="https://user-images.githubusercontent.com/49095200/89945852-6456bd80-dbf8-11ea-85cf-759626799e2e.png" />
 
@@ -86,7 +86,7 @@ $ yarn start
 ## Sobre mim
 <a href="https://www.linkedin.com/in/gabriel-mendonca-pereira/">
  <img style="border-radius:50%" width="100px; "src="https://avatars0.githubusercontent.com/u/49095200?s=460&u=27a77c43fff5eab61be02a3fedfd7db554145981&v=4"/>
- <p>Gabriel Mendonça</p>
+ <p>Gabriel Mendonça Pereira</p>
 </a>
 
 ## 💜  Agrecimentos
