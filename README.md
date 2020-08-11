@@ -86,6 +86,7 @@ $ yarn start
 ## Sobre mim
 <a href="https://www.linkedin.com/in/gabriel-mendonca-pereira/">
  <img style="border-radius:50%" width="100px; "src="https://avatars0.githubusercontent.com/u/49095200?s=460&u=27a77c43fff5eab61be02a3fedfd7db554145981&v=4"/>
+ <p>Gabriel Mendonça</p>
 </a>
 
 ## 💜  Agrecimentos
