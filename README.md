@@ -10,10 +10,6 @@
 </p>
 <img src="https://user-images.githubusercontent.com/49095200/89945852-6456bd80-dbf8-11ea-85cf-759626799e2e.png" />
 
-<h4 align="center"> 
-	🚧 👷  Em construção...  🚧
-</h4>
-
 ## 💬 Sobre o projeto
 Proffy - é um projeto que aproxima alunos de professores, dando a oportunidade de escolha através de filtros, resultando em perfis de professores, que dão seu valor de custo por hora de aula.
 
